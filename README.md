@@ -3,14 +3,6 @@
 
 ## [Introduction](0.0.INTRO.md)
 
-
-
-
-
-
-<!---
-
-
 ## [Chapitre 1 : Histoire et Architecture d'un ordinateur](1.0.ARCHI.md)
 
 ## [Chapitre 2 : Le système d'exploitation et la gestion des fichiers et les logiciels](2.0.OS.md)
@@ -24,6 +16,9 @@
 ## [Chapitre 6 : Programmation Python](6.0.PYTHON.md)
 
 
+
+
+<!---
 
 26 séances par an : 4 séances par thème
 
