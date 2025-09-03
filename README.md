@@ -8,12 +8,12 @@
  blabla  `          `  
  bleeele `                             `  
 
-	\- -500 bouliers `       `
-	|-  780 Al-Khwârizmî
+- -500 bouliers `       `
+-  780 Al-Khwârizmî
+- 1632 Règle de William Oughtred
+-  1645 Pascaline
 
-    - 1632 Règle de William Oughtred
-	- 1645 Pascaline
-	- 1801 Metier Jacquard cartes perforées    `                              `
+    - 1801 Metier Jacquard cartes perforées    `                              `
 	- 1836 charles babbage ada lovelace
 	- 1847 boole
 	- 1936 Turing
