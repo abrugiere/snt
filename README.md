@@ -50,12 +50,18 @@
 ### 2.1 - L'OS
 ### 2.2 - Les logiciels
 ### 2.3 - Le gestionnaire de fichiers (lancement des logiciels, types de fichiers)
+
 ---
 ## 3 - Le traitement de texte
+> https://lesbases.anct.gouv.fr/ressources/traitement-de-texte-debutants  
+
 ---
 ## 4 - Les données et le tableur
+> https://lesbases.anct.gouv.fr/ressources/tableur-debutants
+
 ---
 ## 5 - Internet et le web
+
 ---
 ## 6 - Programmation Python
 
