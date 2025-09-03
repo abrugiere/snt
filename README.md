@@ -5,8 +5,8 @@
 ## 1 - Histoire et Architecture d'un ordinateur
 ### 1.1 - Histoire de l'info 
 
- blabla  `          `
- bleeele `                             `
+ blabla  `          `  
+ bleeele `                             `  
 
 	- -500 bouliers `       `
 	-  780 Al-Khwârizmî
