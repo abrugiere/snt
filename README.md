@@ -1,4 +1,4 @@
-# Cours de Sciences Numériques et Technologie Seconde
+# Sciences Numériques et Technologie Seconde
 > 26 cours par an : 4 cours par thème
 
 
