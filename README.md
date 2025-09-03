@@ -1,5 +1,5 @@
 # Sciences Numériques et Technologie Seconde
-> 26 cours par an : 4 cours par thème
+> 26 séances par an : 4 séances par thème
 
 ## [Introduction](0.0.INTRO.md)
 
