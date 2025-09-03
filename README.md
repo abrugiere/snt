@@ -40,8 +40,8 @@
 	- Périphériques ports (USB, affichage, RJ45, sans fil)
 
 
->  https://www.youtube.com/watch?v=q-BoKqm_ZKU
->  https://www.youtube.com/watch?v=NNxAKALRePo&ab_channel=TechnologieColl%C3%A8geFontcarrade  6mn07 : comparaisons puissances de calcul
+>  https://www.youtube.com/watch?v=q-BoKqm_ZKU  
+>  https://www.youtube.com/watch?v=NNxAKALRePo&ab_channel=TechnologieColl%C3%A8geFontcarrade  (6mn07 : comparaisons puissances de calcul)  
 >  Synthese Philippe Boddaert
 
 
