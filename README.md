@@ -3,7 +3,7 @@
 
 ## [Introduction](0.0.INTRO.md)
 
-## [Chapitre 1 : Histoire et architecture d'un ordinateur](1.0.ARCHI.md)
+## [Chapitre 1 : Histoire de l'informatique et architecture d'un ordinateur](1.0.ARCHI.md)
 
 ## [Chapitre 2 : Le système d'exploitation, les logiciels et les fichiers](2.0.OS.md)
 
