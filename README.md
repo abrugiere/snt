@@ -14,6 +14,3 @@
 
 ## [Chapitre 6 : Programmation Python](6.0.PYTHON.md)
 
-
-
-
