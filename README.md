@@ -5,7 +5,7 @@
 
 ## [Chapitre 1 : Histoire et Architecture d'un ordinateur](1.0.ARCHI.md)
 
-## [Chapitre 2 : Le système d'exploitation et la gestion des fichiers et les logiciels](2.0.OS.md)
+## [Chapitre 2 : Le système d'exploitation, les fichiers et les logiciels](2.0.OS.md)
 
 ## [Chapitre 3 : Le traitement de texte](3.0.TEXTE.md)
 
