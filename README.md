@@ -4,7 +4,11 @@
 ---
 ## 1 - Histoire et Architecture d'un ordinateur
 ### 1.1 - Histoire de l'info 
-    - -500 bouliers `       `
+
+ blabla  `          `
+ bleeele `                             `
+
+	- -500 bouliers `       `
 	-  780 Al-Khwârizmî
 	- 1632 Règle de William Oughtred
 	- 1645 Pascaline
