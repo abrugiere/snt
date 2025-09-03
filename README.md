@@ -1,7 +1,15 @@
 # Sciences Numériques et Technologie Seconde
-> 26 séances par an : 4 séances par thème
+
 
 ## [Introduction](0.0.INTRO.md)
+
+
+
+
+
+
+<!---
+
 
 ## [Chapitre 1 : Histoire et Architecture d'un ordinateur](1.0.ARCHI.md)
 
@@ -15,3 +23,8 @@
 
 ## [Chapitre 6 : Programmation Python](6.0.PYTHON.md)
 
+
+
+26 séances par an : 4 séances par thème
+
+-->
