@@ -9,7 +9,7 @@
 
 ## [Chapitre 3 : Le traitement de texte](3.0.TEXTE.md)
 
-## [Chapitre 4 : Les données et le tableur](4.0.DONNEES.md)
+## [Chapitre 4 : Les données structurées et le tableur](4.0.DONNEES.md)
 
 ## [Chapitre 5 : Internet et le Web](5.0.INTERNET.md)
 
