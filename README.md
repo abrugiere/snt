@@ -9,8 +9,6 @@
 ### 6. Internet et le Web  
 ### 7. Algorithmes et programmation Python  
 
-https://abrugiere.github.io/snt/4.2.TP_traitement_texte.pdf
-
 <!---
 
 26 séances par an : 4 séances par thème
