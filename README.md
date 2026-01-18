@@ -4,7 +4,7 @@
 ### [1. Histoire de l'informatique](https://raw.githubusercontent.com/abrugiere/snt/main/_res/1.1.Histoire_info.pdf)
 ### [2. Architecture matérielle d'un ordinateur](https://raw.githubusercontent.com/abrugiere/snt/main/_res/1.2.Ordinateur.pdf)
 ### [3. Le système d'exploitation et l'explorateur de fichiers](https://raw.githubusercontent.com/abrugiere/snt/main/_res/2.1.Systeme_Exploitation.pdf) + [TP](https://raw.githubusercontent.com/abrugiere/snt/main/_res/2.2.TP_OS.pdf)
-### [4. Le traitement de texte](https://raw.githubusercontent.com/abrugiere/snt/main/_res/4.1. Le traitement de texte.pdf) + [TP](4.2. TP Traitement de texte.pdf)
+### [4. Le traitement de texte](https://raw.githubusercontent.com/abrugiere/snt/main/_res/4.1.traitement_texte.pdf) + [TP](4.2.TP_traitement_texte.pdf)
 ### 5. Les données structurées et le tableur  
 ### 6. Internet et le Web  
 ### 7. Algorithmes et programmation Python  
